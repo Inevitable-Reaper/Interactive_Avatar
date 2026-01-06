@@ -1,8 +1,8 @@
 export const AVATARS = [
 
   {
-    avatar_id: "04f9b86923f74f5f89d3f1fd6ca0a87e", // Updated to your new Avatar ID
-    name: "Sabah Inter",
+    avatar_id: "avatar id", // Updated to your new Avatar ID
+    name: "Sa In",
   },
 ];
 
